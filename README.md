@@ -5,7 +5,5 @@
   <li>https://nastydolgova.github.io/piroll/</li>
   <li>https://nastydolgova.github.io/Nerds/</li>
   <li>https://nastydolgova.github.io/simon/</li>
+  <li>https://www.codewars.com/users/nasty.dolgova</li>
 </ul>
-
-
-https://www.codewars.com/users/nasty.dolgova/badges/large
