@@ -6,3 +6,6 @@
   <li>https://nastydolgova.github.io/Nerds/</li>
   <li>https://nastydolgova.github.io/simon/</li>
 </ul>
+
+
+https://www.codewars.com/users/nasty.dolgova/badges/large
