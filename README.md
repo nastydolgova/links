@@ -1,5 +1,7 @@
 # links
 <ul>
+  <li>https://nastydolgova.github.io/neon/ - адаптив, для WP </>
+  <li>https://nastydolgova.github.io/YP/ - для дальнейшей посадки на WP</>
   <li>https://nastydolgova.github.io/Pink/ - адаптив </>
   <li>https://nastydolgova.github.io/Mishka/ - адаптив </li>
   <li>https://nastydolgova.github.io/simon/ - игра Симона</li>
