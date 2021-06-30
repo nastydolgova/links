@@ -19,6 +19,13 @@
     <li> https://u1312058.plsk.regruhosting.ru/pe4enie.ru/ </li>
     <li> http://wpclean.dimark.team/ - натяжка </li>
 </ul>
+<p> Учебные проекты </p>
+<ul>
+  <li>https://nastydolgova.github.io/Pikadu/</li>
+  <li>https://github.com/nastydolgova/Vuechat</li>
+  <li>https://nastydolgova.github.io/miniwild/</li>
+  
+</ul>
   
   
 https://www.codewars.com/users/nasty.dolgova
